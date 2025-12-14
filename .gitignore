@@ -1,17 +1,17 @@
-# Build outputs
+# Visual Studio
+.vs/
 x64/
-x86/
 Debug/
 Release/
+
+# User-specific files
+*.user
+
+# Build files
 *.exe
+*.dll
 *.obj
 *.pdb
-*.ilk
 
-# Visual Studio
-*.vcxproj.user
-*.suo
-*.sln
-
-# DLL libraries (kecuali jika ingin commit)
-# *.dll
+# Logs
+*.log
